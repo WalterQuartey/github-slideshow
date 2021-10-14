@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: "Welcome to our second slide!"
+title: "Welcome to Walter's Slide Show!"
 ---
-Your text
+This is just a __sample of what__ can be done on *Git Hub*
 Use the left arrow to go back!
